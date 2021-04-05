@@ -7,8 +7,10 @@
   "private": true,
   "dependencies": {
     "@sap/cds": "^4",
+    "@sap/hana-client": "^2.6.61",
+    "@sap/hdbext": "^7.1.4",
     "express": "^4",
-    "@sap/hana-client": "^2.6.61"
+    "sap-hdbext-promisfied": "^2.202103.1"
   },
   "scripts": {
     "start": "cds run"

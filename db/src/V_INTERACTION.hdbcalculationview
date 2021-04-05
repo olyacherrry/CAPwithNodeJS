@@ -79,7 +79,7 @@
     
   
     <shape expanded="true" modelObjectName="Join_1" modelObjectNameSpace="CalculationView">
-      <upperLeftCorner x="-103" y="182"/>
+      <upperLeftCorner x="-277" y="241"/>
       <rectangleSize height="30" width="495"/>
     </shape>
     <shape modelObjectName="APP_INTERACTIONS_INTERACTIONS_HEADER" modelObjectNameSpace="Join_1" modelObjectType="JoinNodeInput">

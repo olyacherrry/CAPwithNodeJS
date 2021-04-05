@@ -1,6 +1,7 @@
 using app.interactions from '../db/interactions';
 using V_INTERACTION from '../db/interactions';
 
+@requires: 'authenticated-user'
 service CatalogService {
 
     entity Interactions_Header
